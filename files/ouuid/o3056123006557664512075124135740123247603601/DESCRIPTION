@@ -1,0 +1,32 @@
+Title:
+        A UUID may be represented by an octal constant.
+Version:
+        2022.08-19
+Author:
+        D. Michael Parrish
+Date:
+        2022-08-19
+License:
+        AGPL-3
+Package:
+        o3056123006557664512075124135740123247603601
+Type:
+        Package
+Maintainer:
+        Neat O <neatoverse@yahoo.com>
+Description:
+        The file OUUID lays out an argument supporting
+        he claim "A UUID may be represented by an octal
+        constant."
+section-break:
+        ------------------------------------------------
+about-this-file:
+        This file is intended to provide metadata for
+        the subject Package in accordance with [WRE].
+references:
+        [WRE] R Core Team (2022-04-22) Writing R
+                Extensions v4.2.0 <https://cran.r-
+                project.org/manuals.html>
+manifest:
+        DESCRIPTION
+        OUUID
